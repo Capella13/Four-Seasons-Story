@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: cfe198362869f46439b345cc0079c612
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 853
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef190e557c63eab4b98286f64177b32f
+      internalID: 38567466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 853
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660c7953a82725e4f95bb358fd76772d
+      internalID: -926246384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 853
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32d1c78a1af6942bf6294d5f1dfce7
+      internalID: -643807327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 853
+        width: 44
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3be20b4d44bd445a432acb5d1bf41e
+      internalID: -157471653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 853
+        width: 74
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9751e934790ce4c8a8b1e676eeaec5
+      internalID: 1498719476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 853
+        width: 141
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50a1cd59e74ef1488aefca33cab3461
+      internalID: 337552241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 830
+        width: 159
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c170f697a272544a48426768858f9b
+      internalID: -92581315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 830
+        width: 163
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ac4dd30be83e2409b387c6a1dc5168
+      internalID: -416881408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 830
+        width: 169
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db74a0fa273bf498e4273dedfc6257
+      internalID: -1058786371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 808
+        width: 169
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e257c6ccaa978e647a5e19d0e55374a7
+      internalID: -441231695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 808
+        width: 175
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81302506974fbf459fa6f1bc2a03ee8
+      internalID: -1242316899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 804
+        width: 174
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2488c3dd48047408655b25ecbba9ce
+      internalID: -1287792714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 779
+        width: 173
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16395353452aabe4f9465282a2429c5b
+      internalID: -809438568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 741
+        width: 173
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf9a7b5d05f0394abfe0699020e88e4
+      internalID: -1311685872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 725
+        width: 174
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b702933f1af8b4ea2e39be4efec1c2
+      internalID: -1294645998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 574
+        width: 174
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828056e23852f374b8b25bf3155e2b56
+      internalID: -1820806555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 536
+        width: 173
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f273aae8734277840bd5f1e108f453cb
+      internalID: 69658212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 513
+        width: 174
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2072eede60cc8f478602ea564ac505d
+      internalID: -1582556668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 273
+        width: 174
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f11cdcdabc85748905ce33f0efb800
+      internalID: 340955882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 266
+        width: 174
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e093e6a4e00c4f9aa79cbdbc578db
+      internalID: -888281469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 260
+        width: 175
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742eef61a8b0d774eab915bad368b185
+      internalID: -2107672470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 174
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd39b0dd5d3f9d48b662bd2f708d91a
+      internalID: -79954234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Season_Box_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7
+        width: 174
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819ca6e79a2df314bb337de70f8331e3
+      internalID: 443049438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Season_Box_Sprite_Sheet_0: 38567466
+      Season_Box_Sprite_Sheet_1: -926246384
+      Season_Box_Sprite_Sheet_10: -1242316899
+      Season_Box_Sprite_Sheet_11: -1287792714
+      Season_Box_Sprite_Sheet_12: -809438568
+      Season_Box_Sprite_Sheet_13: -1311685872
+      Season_Box_Sprite_Sheet_14: -1294645998
+      Season_Box_Sprite_Sheet_15: -1820806555
+      Season_Box_Sprite_Sheet_16: 69658212
+      Season_Box_Sprite_Sheet_17: -1582556668
+      Season_Box_Sprite_Sheet_18: 340955882
+      Season_Box_Sprite_Sheet_19: -888281469
+      Season_Box_Sprite_Sheet_2: -643807327
+      Season_Box_Sprite_Sheet_20: -2107672470
+      Season_Box_Sprite_Sheet_21: -79954234
+      Season_Box_Sprite_Sheet_22: 443049438
+      Season_Box_Sprite_Sheet_3: -157471653
+      Season_Box_Sprite_Sheet_4: 1498719476
+      Season_Box_Sprite_Sheet_5: 337552241
+      Season_Box_Sprite_Sheet_6: -92581315
+      Season_Box_Sprite_Sheet_7: -416881408
+      Season_Box_Sprite_Sheet_8: -1058786371
+      Season_Box_Sprite_Sheet_9: -441231695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
