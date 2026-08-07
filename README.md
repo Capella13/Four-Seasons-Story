@@ -1,7 +1,5 @@
 # Four-Seasons-Story
 
-**게임 이름 : 사계절스토리Four-Seasons-Story
-
 **게임 이름 : 사계절스토리**
 
 ## Unity 버전 - 2022.3.35f1
